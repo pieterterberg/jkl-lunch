@@ -1,24 +1,24 @@
 {
   "source": "https://shalimar.fi/jyvaskyla/matkakeskus/lunchmenu/",
-  "scraped_at": "2026-10-19T08:23:43.218Z",
+  "scraped_at": "2026-10-26T08:24:03.504Z",
   "days": {
     "monday": {
       "label": "Maanantai",
       "items": [
         {
-          "name": "TANDOORI CHICKEN",
-          "price": "13.70",
-          "description": "Valkosipuli,inkivääri ja kurkuma marinoitua broilerin rintafilettä grillattuna tandooriuunissa (laktoositon,gluteeniton)"
+          "name": "CHICKEN TIKKA MASALA",
+          "price": "14.20",
+          "description": "Yrtti-jogurttimarinoitua broileria grillattuna tandooriuunissa ja valmistettu talon masalakastikkeessa (laktoositon, gluteeniton)"
         },
         {
-          "name": "BEEF MADRAS",
-          "price": "13.70",
-          "description": "Naudanlihaa inkivääri-valkosipuli tomaattikastikkeessa (maidoton,gluteeniton)"
+          "name": "SHOBJEE BEEF CURRY",
+          "price": "14.20",
+          "description": "Naudanlihaa ja kasviksia currykastikkeessa (maidoton,gluteeniton,sisältää pähkinää)"
         },
         {
-          "name": "VEGETABLE MASALA",
-          "price": "13.70",
-          "description": "Tuoreita kasviksia kerma-, voi ja tomaattikastikkeessa (laktoositon,gluteeniton)"
+          "name": "CHANA DALL",
+          "price": "14.20",
+          "description": "Kikherneitä currykastikkeessa (maidoton,gluteeniton,sisältää pähkinää)"
         }
       ]
     },
@@ -26,19 +26,19 @@
       "label": "Tiistai",
       "items": [
         {
+          "name": "CHICKEN CURRY",
+          "price": "14.20",
+          "description": "Kanaa currykastikkeessa (maidoton, gluteeniton,sisältää pähkinää)"
+        },
+        {
+          "name": "LAMB KOFTA MASALA",
+          "price": "14.20",
+          "description": "Lammaspyöryköitä voi- ja kermatomaattikastikkeessa (laktoositon, gluteeniton)"
+        },
+        {
           "name": "Palak panir",
-          "price": "13.70",
+          "price": "14.20",
           "description": "Pinaattia ja juustoa kermaisessa tomaattikastikkeessa (laktoositon,gluteeniton)"
-        },
-        {
-          "name": "BUTTER CHICKEN",
-          "price": "13.70",
-          "description": "Voissa paistettua kanaa kermaisessa tomaattikastikkeessa (laktoositon,gluteeniton)"
-        },
-        {
-          "name": "LAMB KOFTA MADRAS",
-          "price": "13.70",
-          "description": "Lammaspyöryköitä inkivääri valkosipuli tomaattikastikkeessa (maidoton,gluteeniton)"
         }
       ]
     },
@@ -46,24 +46,19 @@
       "label": "Keskiviikko",
       "items": [
         {
-          "name": "GARLIC CHICKEN",
-          "price": "13.70",
-          "description": "Kanaa valkosipuli-tomaattikastikkeessa (maidoton,gluteeniton)"
+          "name": "KHOLI CHICKEN",
+          "price": "14.20",
+          "description": "Paistettua kanaa ja korianteria voi- tomaattikastikkeessa(laktoositon, gluteeniton)"
         },
         {
-          "name": "FISH MASALA",
-          "price": "13.70",
-          "description": "Kalafileitä kermaisessa voi-tomaaattikastikkeessa(laktoositon,gluteeniton)"
+          "name": "PRAWN VINDALOO",
+          "price": "14.20",
+          "description": "Jättikatkaravun pyrstöjä ja perunaa medium tulisessa tomaattikastikkeessa (maidoton,gluteeniton)"
         },
         {
-          "name": "VEGETABLE KOFTA LABABDAR",
-          "price": "13.70",
-          "description": "Kasvispyöryköitä medium tulisessa cashewpähkinäkastikkeessa (laktoositon,sisältää pähkinää,gluteeniton)"
-        },
-        {
-          "name": "KADHAI LAMB",
-          "price": "13.70",
-          "description": "Lammasta ja paprikaa pehmeässä sipuli-tomaattikastikkeessa (laktoositon,gluteeniton)"
+          "name": "VEGETABLE MALAI KOFTA",
+          "price": "14.20",
+          "description": "Kasvispyöryköitä kookosmaitokastikkeessa (maidoton,gluteeniton, sisältää pähkinää, vegaani)"
         }
       ]
     },
@@ -72,18 +67,18 @@
       "items": [
         {
           "name": "PALAK PANIR",
-          "price": "13.70",
+          "price": "14.20",
           "description": "Pinaattia ja juustoa kermaisessa tomaattikastikkeessa (laktoositon,gluteeniton)"
         },
         {
-          "name": "CHICKEN ROAST",
-          "price": "13.70",
-          "description": "Jugurttimarinoitua kanaa kermaisessa kastikkeessa (laktoositon,gluteeniton,sisältää pähkinää)"
+          "name": "CHICKEN BADAMI",
+          "price": "14.20",
+          "description": "Kanaa ja cashewpähkinöitä kermaisessa kastikkeessa (laktoositon, gluteeniton,sisältää pähkinää)"
         },
         {
-          "name": "BEEF VINDALOO",
-          "price": "13.70",
-          "description": "Naudanlihaa ja perunaa tulisessa tomaattikastikkeessa (maidoton,gluteeniton)"
+          "name": "LAMB VINDALOO",
+          "price": "14.20",
+          "description": "Lammaspyöryköitä ja perunaa medium tulisessa tomaattikastikkeessa (maidoton,gluteeniton)"
         }
       ]
     },
@@ -91,19 +86,19 @@
       "label": "Perjantai",
       "items": [
         {
-          "name": "CHICKEN DOPIAZA",
-          "price": "13.70",
-          "description": "Kanaa ja maustettua sipulia tomaattikastikkeessa (maidoton,gluteeniton)"
+          "name": "CHICKEN CHILI",
+          "price": "14.20",
+          "description": "Kanaa, paprikaa ja sipulia medium tulisessa tomaattikastikkeessa (maidoton, gluteeniton)"
         },
         {
-          "name": "BEEF CURRY",
-          "price": "13.70",
-          "description": "Naudanlihaa currykastikkeessa (maidoton,gluteeniton, sisältää pähkinää)"
+          "name": "GOSTH DOPIAZA",
+          "price": "14.20",
+          "description": "Naudanlihaa ja maustettua sipulia tomaattikastikkeessa (maidoton,gluteeniton)"
         },
         {
-          "name": "DAL MAKHANI",
-          "price": "13.70",
-          "description": "Vihreitä linssejä, kikherneitä ja kidneypapuja jugurttikastikkeessa (laktoositon,gluteeniton,sisältää pähkinää)"
+          "name": "VEGETABLE KORMA",
+          "price": "14.20",
+          "description": "Kasviksia jugurtti-kermakastikkeessa (laktoositon,gluteeniton,sisältää pähkinää)"
         }
       ]
     }
